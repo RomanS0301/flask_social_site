@@ -1,0 +1,38 @@
+# Байт-код Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Папки виртуального окружения
+venv/
+env/
+
+# Файлы среды разработки
+.idea/
+.vscode/
+
+# Файлы конфигурации с секретами
+.env
+.secret
+
+# Файлы базы данных SQLite
+*.db
+*.sqlite3
+
+# Папка с инстанциями Flask
+instance/
+
+# Папка с логами
+logs/
+*.log
+
+# Файлы Node.js
+node_modules/
+
+# Папка сборки
+build/
+dist/
+
+# macOS специфичные файлы
+.DS_Store
